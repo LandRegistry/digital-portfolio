@@ -1,15 +1,16 @@
 {
-  "id":6,
-  "name":"Intranet",
-  "description": "",
+  "id":8,
+  "name":"Land charges",
+  "description": "Description of project",
   "programme": "Digital",
-  "theme": "Foundations",
+  "theme": "Digital",
   "location": "Plymouth",
-  "phase":"beta",
+  "phase":"alpha",
   "phase_modifier":"private",
   "sro":"",
   "service_man":"",
-  "product_owner":"",
+  "product_owner":"Mina Demaris",
+  "prototype":"https://lr-landcharges.herokuapp.com/",
   "phase-history":{
     "discovery": [
       {"label":"", "date": ""},
@@ -22,12 +23,8 @@
     "beta": [
       {"label":"", "date": ""},
       {"label":"", "date": ""}
-    ],
-    "live": [
-      {"label":"", "date": ""},
-      {"label":"", "date": ""}
     ]
   },
   "facing":"user",
-  "priority":"Medium"
+  "priority":"High"
 }

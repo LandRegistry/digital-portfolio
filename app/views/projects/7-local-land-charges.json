@@ -1,16 +1,16 @@
 {
-  "id":8,
-  "name":"Land charges",
+  "id":7,
+  "name":"Local Land Charges",
   "description": "Description of project",
   "programme": "Enablement",
-  "theme": "Other",
-  "location": "Plymouth",
-  "phase":"alpha",
+  "theme": "Enablement",
+  "location": "",
+  "phase":"backlog",
   "phase_modifier":"private",
   "sro":"",
   "service_man":"",
-  "product_owner":"Mina Demaris",
-  "prototype":"https://lr-landcharges.herokuapp.com/",
+  "product_owner":"",
+  "prototype":"",
   "phase-history":{
     "discovery": [
       {"label":"", "date": ""},

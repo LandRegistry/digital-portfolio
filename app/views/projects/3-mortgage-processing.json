@@ -3,7 +3,7 @@
   "name":"Mortgage processing",
   "description": "A way to process a digital mortgage",
   "programme": "Digital",
-  "theme": "Other",
+  "theme": "Digital",
   "location": "Plymouth",
   "phase":"beta",
   "phase_modifier":"private",

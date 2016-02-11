@@ -1,6 +1,6 @@
 {
   "id":1,
-  "name":"Register view",
+  "name":"Digital register",
   "description": "Users can buy and view a snippet of important land and property information from register data held in the System of Record",
   "programme": "Digital",
   "theme": "Digital",

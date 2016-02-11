@@ -7,7 +7,8 @@ var express = require('express'),
 */
 var theme_order = [
       'Digital',
-      'Other'
+      'Enablement',
+      'Foundations'
     ];
 
 var priority_order = [

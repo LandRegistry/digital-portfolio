@@ -3,7 +3,7 @@
   "name":"Workflow",
   "description": "Move some work around",
   "programme": "Enablement",
-  "theme": "Other",
+  "theme": "Enablement",
   "location": "Plymouth",
   "phase":"alpha",
   "phase_modifier":"private",
