@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 
 {% block pageTitle %}
-	GOV.UK prototyping kit
+	Land Registry Portfolio
 {% endblock %}
 
 {% block content %}
@@ -45,11 +45,17 @@
 			<h3 class="heading-small">Service Manager</h3>
 			<p>{{ data.service_man | default('Not set') }}</p>
 
-			<h3 class="heading-small">Prototype</h3>
+			<h3 class="heading-small">Scrum Master</h3>
+			<p>{{ data.scrum_mast | default('Not set') }}</p>
+
+			<h3 class="heading-small">Delivery Manager</h3>
+			<p>{{ data.del_man | default('Not set') }}</p>
+
+			<h3 class="heading-small">Prototypes</h3>
 			<p><a href="{{ data.prototype | default('#') }}">{{ data.prototype | default('http://not.set/') }}</a></p>
 
 			<hr />
-			<p>The <a href="https://github.com/dwpdigitaltech/dwp-portfolio/blob/master/lib/projects/{{data.filename}}">content for this page</a> is open source.</p>
+			<p>The <a href="#">content for this page</a> is open source.</p>
 		</section>
 	</div>
 </main>

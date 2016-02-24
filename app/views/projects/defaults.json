@@ -10,7 +10,10 @@
   "sro":"",
   "service_man":"",
   "product_owner":"",
+  "scrum_mast":"",
+  "del_man":"",
   "prototype":"",
+  "build":"",
   "phase-history":{
     "discovery": [
       {"label":"Started", "date": ""},

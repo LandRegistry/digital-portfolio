@@ -10,6 +10,9 @@
   "sro":"Eddie Davies",
   "service_man":"Paul Chambers",
   "scrum_master":"Ian Ames",
+  "del_man":"",
+  "prototype":"",
+  "build":"",
   "prototype":"https://drv-ux-prototype.herokuapp.com/",
   "phase-history":{
     "discovery": [
