@@ -10,10 +10,9 @@
   "sro":"Eddie Davies",
   "service_man":"Paul Chambers",
   "scrum_master":"Ian Ames",
-  "del_man":"",
-  "prototype":"",
-  "build":"",
+  "del_man":"Adrian Bassett",
   "prototype":"https://drv-ux-prototype.herokuapp.com/",
+  "build":"https://beta.registerview.landregistryconcept.co.uk/",
   "phase-history":{
     "discovery": [
       {"label":"started", "date": ""},

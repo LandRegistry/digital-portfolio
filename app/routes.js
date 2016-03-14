@@ -11,6 +11,12 @@ var theme_order = [
       'Foundations'
     ];
 
+var programme_order = [
+      'Digital',
+      'Enablement',
+      'Foundations'
+    ];
+
 var priority_order = [
       'Top',
       'High',
